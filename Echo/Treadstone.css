@@ -1,0 +1,26 @@
+*{
+    font-family: Arial, 'TimesNewRoman';
+}
+
+#A1 {
+    display: block;
+    float: left;
+    margin: 3px;
+    padding: 2px;
+    width: 100px;
+    height: 25px;
+    background-color: lightskyblue;
+}
+
+
+#ul-A {
+    font-family: Arial;
+    list-style: none;
+}
+#ul-B {
+    list-style: none;
+    visibility: hidden;
+}
+#ul-B hover {
+    visibility: visible;
+}
