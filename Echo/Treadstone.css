@@ -1,7 +1,6 @@
 *{
     font-family: Arial, 'TimesNewRoman';
 }
-
 #A1 {
     display: block;
     float: left;
@@ -11,8 +10,6 @@
     height: 25px;
     background-color: lightskyblue;
 }
-
-
 #ul-A {
     font-family: Arial;
     list-style: none;
