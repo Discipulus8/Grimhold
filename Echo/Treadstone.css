@@ -2,9 +2,36 @@
     font-family: Arial, 'TimesNewRoman';
 }
 #sub-60 div {
-    background-color: lightgreen;
+    background-color: lightblue;
     margin: 4px;
     float: left;
     height: 100px;
     width: 100px;
+    text-align: center;
+}
+#Updog {
+    float: left;
+}
+#sub-Updog a{
+    visibility: hidden;
+    display: block;
+}
+#ul-1 li:hover div a{
+    visibility: visible;
+}
+#ul-1 {
+    list-style-image: none;
+    list-style: none;
+    font-size: 25;
+}
+#ul-1 li {
+   padding: 3px;
+   display: block;
+   background-color: lightyellow;
+}
+a {
+    color: deepskyblue;
+}
+a:hover {
+    color: lightblue;
 }
