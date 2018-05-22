@@ -1,4 +1,14 @@
 * {
     font-family: Arial;
 }
-
+#Gamma ul li {
+    list-style: none;
+    display: block;
+}
+#Gamma {
+    float: left;
+    padding: 3px;
+}
+a {
+    font-style: normal;
+}
