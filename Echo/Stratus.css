@@ -30,3 +30,18 @@ b {
     text-indent: 0px;
     margin-left: 60px;
 }
+#OmniCorp {
+    height: 400px;
+    width: 400px;
+}
+#King {
+    color: rgb(93, 187, 204) ;
+    margin-left: 15px;
+}
+a {
+    margin-left: 160px
+}
+#id {
+    margin-left: 0px;
+    text-indent: 60px;
+}
