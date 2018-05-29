@@ -1,0 +1,31 @@
+* {
+    font-family: Arial;
+}
+div.column1 {
+    width: 20%;
+    background: linear-gradient(gray, lightblue);
+    position: relative;
+    float: left;
+    height: 100%;
+    background-color: blue;
+    margin: 200px;
+}
+div.column2 {
+    width: 60%;
+    position: relative;
+    background: white;
+    height: 100%;
+    margin: 600px;
+}
+div.column3 {
+    position: relative;
+    background: linear-gradient(gray, white);
+    float: right;
+    width: 20%;
+    height: 100%;
+    background-color: blue;
+    margin: 200px;
+}
+div.row {
+    float: left;
+}
