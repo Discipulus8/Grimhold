@@ -12,3 +12,55 @@
 a {
     font-style: none;
 }
+#sub-60 div {
+    background-color: lightblue;
+    margin: 4px;
+    float: left;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    font-size: 20px;
+}
+#Updog {
+    float: left;
+}
+#sub-Updog a {
+    visibility: hidden;
+    display: block;
+}
+#ul-1 li:hover div a{
+    visibility: visible;
+}
+#ul-1 {
+    list-style-image: none;
+    list-style: none;
+    font-size: 25;
+    float: left;
+}
+#ul-1 li {
+   padding: 3px;
+   display: block;
+   background-color: white;
+   float: left;
+}
+a {
+    color: deepskyblue;
+}
+a:hover {
+    color: lightblue;
+}
+#sub-60 img {
+    height: 100px;
+    width: 100px;
+    padding: 1px;
+}
+#Warpath a {
+    visibility: hidden;
+    display: block;
+}
+#Warpath:hover a {
+    visibility: visible;
+}
+#Warpath:hover {
+    visibility: visible;
+}

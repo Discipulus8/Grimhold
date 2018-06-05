@@ -11,6 +11,7 @@ body {
     height: 100px;
     width: 100px;
     text-align: center;
+    font-size: 20px;
 }
 #Updog {
     float: left;
@@ -26,11 +27,13 @@ body {
     list-style-image: none;
     list-style: none;
     font-size: 25;
+    float: left;
 }
 #ul-1 li {
    padding: 3px;
    display: block;
-   background-color: lightyellow;
+   background-color: white;
+   float: left;
 }
 a {
     color: deepskyblue;
